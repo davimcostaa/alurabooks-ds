@@ -1,10 +1,10 @@
 import React from 'react'
 import styled, { css } from 'styled-components'
 
-interface AbBotaoProps {
+export interface AbBotaoProps {
   texto?: string
   tipo?: 'primario' | 'secundario'
-  onClick: () => void
+  onClick?: () => void
 }
 
 const BotaoEstilizado = styled.button<AbBotaoProps>`

@@ -4,7 +4,7 @@ import { AbCard } from '../src/components/AbCard'
 
 
 export default {
-    title: 'Components/AbBotao',
+    title: 'Components/ABCard',
     component: AbCard
 } as ComponentMeta<typeof AbCard>
 
