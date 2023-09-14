@@ -1,3 +1,15 @@
+# v0.2.4 (Thu Sep 14 2023)
+
+#### ⚠️ Pushed to `master`
+
+- Atualizando componente de Tag ([@davimcostaa](https://github.com/davimcostaa))
+
+#### Authors: 1
+
+- Davi Costa ([@davimcostaa](https://github.com/davimcostaa))
+
+---
+
 # v0.2.3 (Mon Aug 28 2023)
 
 #### ⚠️ Pushed to `master`
